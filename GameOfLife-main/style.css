@@ -1,0 +1,25 @@
+button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border:none;
+  padding: 20px;
+    text-align: center;
+
+  
+    
+  }
+
+  .eater{
+    background-color: #fbff00; 
+    color: black;
+  }
+
+  li{
+    list-style:none;
+    margin-right: 10px
+  }
+
+  ul{
+      margin-top:50px;
+      display: flex;
+  }
